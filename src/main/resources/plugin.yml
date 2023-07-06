@@ -1,0 +1,8 @@
+name: ModernHCF
+version: '${project.version}'
+main: dev.stackz.modernhcf.ModernHCF
+api-version: '1.19'
+commands:
+  faction:
+    aliases:
+      - "f"
